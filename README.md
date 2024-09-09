@@ -55,7 +55,8 @@
   <li><a href="https://github.com/zzznly">유진리</a></li>
   <li><a href="https://github.com/">신주환</a></li>
   <li><a href="https://github.com/">소원진</a></li>
-  <li><a href="https://github.com/">최현석</a></li>
+  <li><a href="https://github.com/cecil1018">최현석</a></li>
+  <li><a href="https://github.com/">이루리</a></li>
 </ul>
 
 </div>
