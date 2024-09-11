@@ -36,13 +36,27 @@
   </tr>
 </thead>
 <tbody>
-<tr>
-<td>1주차</td>
-<td align="center">9/11(수)</td>
-<td colspan="2" align="left">[2장] 타입</td>
-<td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9C%A0%EC%A7%84%EB%A6%AC.md">유진리</a></td>
-<td ><a href="https://github.com/ogqcorp/woowahan-ts-study/issues">문제</a></td>
-</tr>
+  <tr>
+    <td>1주차</td>
+    <td align="center">9/11(수)</td>
+    <td colspan="2" align="left">[2장] 타입</td>
+    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%9C%A0%EC%A7%84%EB%A6%AC.md">유진리</a></td>
+    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/issues">문제</a></td>
+  </tr>
+  <tr>
+    <td>1주차</td>
+    <td align="center">9/11(수)</td>
+    <td colspan="2" align="left">[2장] 타입</td>
+    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%86%8C%EC%9B%90%EC%A7%84.md">소원진</a></td>
+    <td ></td>
+  </tr>  
+  <tr>
+    <td>1주차</td>
+    <td align="center">9/11(수)</td>
+    <td colspan="2" align="left">[2장] 타입</td>
+    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%B5%9C%ED%98%84%EC%84%9D.md">최현석</a></td>
+    <td ></td>
+  </tr>  
 <tr>
 </tbody>
 </table>
