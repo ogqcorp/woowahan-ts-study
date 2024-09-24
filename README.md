@@ -73,4 +73,6 @@
   <li><a href="https://github.com/">이루리</a></li>
 </ul>
 
-</div>
+## References
+
+- [Type Script handbook](https://www.typescriptlang.org/ko/docs/handbook/2/basic-types.html)
