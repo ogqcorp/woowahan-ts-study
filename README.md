@@ -61,7 +61,7 @@
     <td>2주차</td>
     <td align="center">9/25(수)</td>
     <td colspan="2" align="left">[3장] 고급 타입</td>
-    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B2%EC%9E%A5%5D%20%ED%83%80%EC%9E%85/%EC%B5%9C%ED%98%84%EC%84%9D.md">최현석</a></td>
+    <td ><a href="https://github.com/ogqcorp/woowahan-ts-study/blob/master/%5B3%EC%9E%A5%5D%20%EA%B3%A0%EA%B8%89%20%ED%83%80%EC%9E%85/%EC%B5%9C%ED%98%84%EC%84%9D.md">최현석</a></td>
     <td ></td>
   </tr>  
 <tr>
